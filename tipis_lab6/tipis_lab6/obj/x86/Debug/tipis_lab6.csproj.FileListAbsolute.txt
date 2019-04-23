@@ -1,0 +1,8 @@
+/Users/wendy/Desktop/ТИПИС/tipis_lab6/tipis_lab6/bin/Debug/tipis_lab6.exe
+/Users/wendy/Desktop/ТИПИС/tipis_lab6/tipis_lab6/bin/Debug/tipis_lab6.pdb
+/Users/wendy/Desktop/ТИПИС/tipis_lab6/tipis_lab6/bin/Debug/tipis_lab5.pdb
+/Users/wendy/Desktop/ТИПИС/tipis_lab6/tipis_lab6/obj/x86/Debug/tipis_lab6.csprojAssemblyReference.cache
+/Users/wendy/Desktop/ТИПИС/tipis_lab6/tipis_lab6/obj/x86/Debug/tipis_lab6.csproj.CoreCompileInputs.cache
+/Users/wendy/Desktop/ТИПИС/tipis_lab6/tipis_lab6/obj/x86/Debug/tipis_lab6.csproj.CopyComplete
+/Users/wendy/Desktop/ТИПИС/tipis_lab6/tipis_lab6/obj/x86/Debug/tipis_lab6.exe
+/Users/wendy/Desktop/ТИПИС/tipis_lab6/tipis_lab6/obj/x86/Debug/tipis_lab6.pdb
